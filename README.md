@@ -60,6 +60,11 @@ git clone https://github.com/irikaishani/Indian_Stock_Option_Analyzer.git
 cd Indian_Stock_Option_Analyzer
 ```
 
+### Clone the Upstock Repository 
+```sh
+git clone https://github.com/upstox/upstox-python
+```
+
 ### Create a Virtual Environment
 ```sh
 python -m venv venv
